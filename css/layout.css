@@ -326,27 +326,27 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .clanguage {
-  	width: 95%;
+  	width: 90%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
 .cpp {
-  	width: 95%;
+  	width: 90%;
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
 .python {
-  	width: 95%;
+  	width: 85%;
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
 .unix {
-  	width: 70%;
+  	width: 65%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
 .java {
-  	width: 80%;
+  	width: 75%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
