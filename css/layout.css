@@ -340,27 +340,12 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
-.microsoftoffice {
-  	width: 90%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
-}
 .unix {
   	width: 70%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
-.javascript {
-  	width: 80%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
-}
 .java {
-  	width: 80%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
-}
-.flask {
   	width: 80%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
