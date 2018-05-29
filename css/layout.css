@@ -73,7 +73,7 @@ header .banner-text h3 {
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
-   color: #e05008;
+   color: #fff;
 }
 header .banner-text hr {
    width: 60%;
@@ -179,7 +179,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li.current a { color: #ba0303; }
 
 
 /* ------------------------------------------------------------------ */
